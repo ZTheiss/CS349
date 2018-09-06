@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d(TAG, "onCreateL started.");
 
+
+
         initImageBitmaps();
     }
     private void initImageBitmaps(){
